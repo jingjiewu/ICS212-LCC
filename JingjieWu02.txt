@@ -1,0 +1,46 @@
+Jingjie Wu
+ICS 212 Assignment #2
+August 26, 2017 
+
+    1  ls
+    2  history
+    3  ls -a
+    4  ls -l
+    5  ls ?.c
+    6  ls hw?
+    7  ls ???.c
+    8  ls ????.c
+    9  ls
+   10  clear
+   11  dir
+   12  ls *.c
+   13  ls main*
+   14  mkdir testing
+   15  ls
+   16  rm testing
+   17  rm testing/
+   18  rm testing -r
+   19  ls
+   20  mkdir test
+   21  ls
+   22  rm test
+   23  rmdir test
+   24  ls
+   25  History
+   26  history
+   27  pwd
+   28  cat main.c
+   29  more main.c 
+   30  less main.c 
+   31  man command
+   32  mkdir test
+   33  ls
+   34  vi test.txt
+   35  ls
+   36  mv test.txt test
+   37  ls
+   38  cd test
+   39  ls
+   40  cd ..
+   41  ls
+   42  history > JingjieWu02.txt
